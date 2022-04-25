@@ -1,0 +1,9 @@
+text_id = "";
+text_num = 0;
+text_max = -1;
+deactivated = 0;
+timer = -1;
+ds_id = -1;
+loop = false;
+loop_start = -1;
+looper=0;
