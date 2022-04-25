@@ -1,0 +1,1 @@
+audio_group_set_gain(augMusic,oGame.gain_m, 10);
